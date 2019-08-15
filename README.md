@@ -40,8 +40,10 @@ The value k is positive and will always be smaller than the length of the sorted
 Length of the given array is positive and will not exceed 104
 Absolute value of elements in the array and x will not exceed 104
 
+## Problem 3
+https://leetcode.com/discuss/interview-question/318918/amazon-online-assessment
 
-## Problem3
+## Problem4
 Longest Duplicate Substring (https://leetcode.com/problems/longest-duplicate-substring/)
 
 Given a string S, consider all duplicated substrings: (contiguous) substrings of S that occur 2 or more times.  (The occurrences may overlap.)
